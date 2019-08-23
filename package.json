@@ -1,0 +1,27 @@
+{
+  "name": "webpack-strip-function",
+  "version": "1.0.0",
+  "description": "Webpack plugin to strip any function call that you specified that are only intended for development purposes",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AielloChan/webpack-strip-function.git"
+  },
+  "homepage": "https://github.com/AielloChan/webpack-strip-function",
+  "keywords": [
+    "webpack",
+    "webpackloader",
+    "assert",
+    "stripcode"
+  ],
+  "author": {
+    "name": "Aiello Chan",
+    "email": "aiello.chan@gmail.com",
+    "url": "http://www.aiellochan.com"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/AielloChan/webpack-strip-function/issues"
+  }
+}
